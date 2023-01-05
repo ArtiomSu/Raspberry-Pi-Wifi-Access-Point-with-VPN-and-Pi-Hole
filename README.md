@@ -159,3 +159,7 @@ conf-dir=/etc/dnsmasq.d
 1. [Setting up VPN Hotspot](https://medium.com/swlh/make-a-hotspot-of-raspberry-pi-while-using-a-vpn-e8f6620c1ab9)
 2. [Auto connecting to vpn on startup](https://raspberrypi.stackexchange.com/questions/136051/connect-to-vpn-network-on-startup)
 3. [Setting up Pi-Hole](https://www.crosstalksolutions.com/the-worlds-greatest-pi-hole-and-unbound-tutorial-2023/#Install_Pi-hole)
+
+## Demo and Walkthrough on Youtube
+Coming soon
+[![Coming soon](https://img.youtube.com/vi/video_id/0.jpg)](https://www.youtube.com/watch?v=video_id)
