@@ -8,11 +8,18 @@ This type of network is handy for "smart" devices like smart tvs which don't hav
 
 This type of network is also handy if your vpn provider only limits you to 5 devices. By connecting to this network the vpn company will think you are using only 1 device no matter how many clients are connected to this wifi. Plus you get ad blocking for free.
 
+![diagram](https://github.com/ArtiomSu/Raspberry-Pi-Wifi-Access-Point-with-VPN-and-Pi-Hole/blob/main/pi-custom-wifi-network.png)
+
 ## Equipment used in this guide.
 1. Raspberry Pi 2b running Raspbian GNU/Linux 11 (bullseye)
 2. Wifi card that supports AP mode and that has linux drivers (ALFA AWUS036NHA) basically anything on Kali Linux recommended forums should work.
 3. Ethernet cable and ethernet network with access to the internet.
 4. OpenVpn config files (ipvanish)
+
+## Demo and Walkthrough on Youtube
+Skip to 05:18 for a demo.
+
+[![Create a Raspberry Pi Wireless Router (Wifi Access Point) with VPN and Pi-Hole | DEMO and GUIDE](https://img.youtube.com/vi/gQ6598jxWJM/0.jpg)](https://www.youtube.com/watch?v=gQ6598jxWJM)
 
 ## Guide
 
@@ -159,7 +166,3 @@ conf-dir=/etc/dnsmasq.d
 1. [Setting up VPN Hotspot](https://medium.com/swlh/make-a-hotspot-of-raspberry-pi-while-using-a-vpn-e8f6620c1ab9)
 2. [Auto connecting to vpn on startup](https://raspberrypi.stackexchange.com/questions/136051/connect-to-vpn-network-on-startup)
 3. [Setting up Pi-Hole](https://www.crosstalksolutions.com/the-worlds-greatest-pi-hole-and-unbound-tutorial-2023/#Install_Pi-hole)
-
-## Demo and Walkthrough on Youtube
-Coming soon
-[![Coming soon](https://img.youtube.com/vi/video_id/0.jpg)](https://www.youtube.com/watch?v=video_id)
